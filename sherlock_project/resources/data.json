@@ -2737,5 +2737,11 @@
     "urlProbe": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor={}.bsky.social",
     "urlMain": "https://bsky.app/",
     "username_claimed": "mcuban"
+  },
+    "AniList": {
+    "errorType": "status_code",
+    "url": "https://anilist.co/user/{}",
+    "urlMain": "https://anilist.co",
+    "username_claimed": "user"
   }
 }
